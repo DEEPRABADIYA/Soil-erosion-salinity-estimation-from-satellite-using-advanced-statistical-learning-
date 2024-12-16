@@ -1,1 +1,3 @@
-# Soil-erosion-salinity-estimation-from-satellite-using-advanced-statistical-learning
+**Title** : **Soil erosion salinity estimation from satellite using advanced statistical learning**
+
+Set off on an innovative investigation of Gujarat's Kheda district, utilising the combined power of Python's Rasterio module, ArcGIS, QGIS, and Google Earth Engine. Our initiative uses cutting-edge statistical learning approaches to decipher data from satellite photos, providing important new understandings of salinity trends and soil erosion. Come along as we unlock the secrets of the landscape and provide stakeholders with useful knowledge to support wise decisions and sustainable land use techniques.
